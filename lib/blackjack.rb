@@ -53,11 +53,11 @@ def hit?(card_total)
   when "s"
     return card_total
   else
-    ""
+    invalid_command
 end
 
 def invalid_command
-  # code invalid_command here
+  
 end
 
 #####################################################
