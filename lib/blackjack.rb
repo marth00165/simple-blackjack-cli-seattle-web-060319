@@ -51,12 +51,7 @@ def hit?(card_total)
   when "h"
     return card_total += deal_card
   when "s"
-    return 
-  
-  
-  
-  
-  
+    return card_total
   
 end
 
