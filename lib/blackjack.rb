@@ -26,7 +26,7 @@ end
 
 def end_game #thanos dies
   
- puts "Sorry you hit #{card_total} which means you broke! " 
+ puts "Sorry you hit #{card_total} which means you broke! like yo bank account... thanks ggs ya nub! smh" 
   
 end
 
