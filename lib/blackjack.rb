@@ -37,6 +37,7 @@ def initial_round
   
   card_total = card1 + card2
   
+  display_card_total
   
 end
 
