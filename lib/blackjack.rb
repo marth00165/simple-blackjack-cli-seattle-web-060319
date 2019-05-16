@@ -49,7 +49,7 @@ def hit?(card_total)
   case user_input
   
   when "h"
-    return card_total
+    return card_total += deal_card
   
   
   
