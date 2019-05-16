@@ -26,7 +26,7 @@ end
 
 def end_game #thanos dies
   
- puts "Sorry " 
+ puts "Sorry you " 
   
 end
 
