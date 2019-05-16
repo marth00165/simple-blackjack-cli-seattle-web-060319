@@ -14,7 +14,7 @@ end
 
 def prompt_user
   
-  
+  puts ""
   
 end
 
